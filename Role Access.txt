@@ -1,0 +1,7 @@
+Administrator
+username : admin
+password : admin
+
+Member
+username : dinar
+password : dinar
